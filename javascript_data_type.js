@@ -1,0 +1,7 @@
+console.log(typeof typeof 5);  //type "string"
+console.log(typeof 5)  //type "Number"
+console.log(typeof undefined)  // type "undefined"
+console.log(typeof null) // type "object"
+console.log(typeof [])  // type "object"
+console.log(typeof {}) //type "object"
+console.log(typeof new Date()) //type "object"
